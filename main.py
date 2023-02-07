@@ -1,7 +1,15 @@
+def floor():
+    """
+    TODO: From Alex
+    :return: None
+    """
+    pass
+
+
 def window():
     """
     Function is drawing home.
-    :return:
+    :return:None
     """
     pass
 
