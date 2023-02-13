@@ -14,7 +14,7 @@ def window():
     Function is drawing home.
     :return:None
     """
-    turtle.color('red')
+    turtle.color('blue')
     for _ in range(4):
         turtle.forward(100)
         turtle.lt(90)
